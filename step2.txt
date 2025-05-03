@@ -1,2 +1,10 @@
 git init
 git add .
+git commit -m"first commit"
+git remote add origin https://github.com/Raiya-Suzuki/step2_test.git
+git branch
+git push -u origin main
+git status
+git add step2.txt
+git commit -m"second commit"
+git push origin main
