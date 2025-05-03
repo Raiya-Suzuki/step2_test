@@ -7,4 +7,9 @@ git push -u origin main
 git status
 git add step2.txt
 git commit -m"second commit"
-git push origin main
+git push origin main 
+git branch test 
+git checkout test 
+git branch 
+git status 
+git add step2.txt 
